@@ -1,3 +1,3 @@
 # Define the variable board below.
-board = "New_Array"
-New_Array = [" "," "," "," "," "," "," "," "," "]
+board = Array.New(8)
+puts board(0)  = " "
